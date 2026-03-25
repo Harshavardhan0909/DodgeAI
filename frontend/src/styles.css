@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.layout{
+ display:flex;
+ gap:20px;
+ height:100vh;
+}
+
+.graph{
+ width:70%;
+ height:600px;
+ border:1px solid #ccc;
+}
+
+.chat{
+ width:30%;
+ padding:10px;
+}
